@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Fernhill Garden Transformations mark, reversed"><defs><clipPath id="c1"><circle cx="50" cy="50" r="44"/></clipPath></defs>
+<circle cx="50" cy="50" r="47" fill="#2F5D3A" stroke="#F5F1E6" stroke-width="3"/>
+<g clip-path="url(#c1)">
+  <circle cx="68" cy="36" r="10" fill="#E9B949"/>
+  <path d="M0,62 Q22,44 46,56 Q66,40 100,54 L100,100 L0,100Z" fill="#4C7C4A"/>
+  <path d="M0,74 Q30,58 60,70 Q80,62 100,68 L100,100 L0,100Z" fill="#7FA653"/>
+  <path d="M44,100 Q52,84 62,72" fill="none" stroke="#F5F1E6" stroke-width="4" stroke-linecap="round" opacity=".9"/>
+</g>
+<path d="M28.0,88.0 L26.0,82.9 L24.7,77.5 L24.3,71.9 L24.6,66.3 L25.8,60.6 L27.9,55.0 L30.7,49.6 L34.4,44.5" fill="none" stroke="#F5F1E6" stroke-width="2.0" stroke-linecap="round"/><path d="M26.0,82.9 Q20.8,77.9 14.1,80.6 Q19.3,85.5 26.0,82.9Z" fill="#F5F1E6"/><path d="M26.0,82.9 Q32.6,80.2 33.0,73.0 Q26.3,75.7 26.0,82.9Z" fill="#F5F1E6"/><path d="M24.7,77.5 Q20.4,72.8 14.3,74.7 Q18.6,79.4 24.7,77.5Z" fill="#F5F1E6"/><path d="M24.7,77.5 Q30.8,75.6 31.6,69.3 Q25.5,71.2 24.7,77.5Z" fill="#F5F1E6"/><path d="M24.3,71.9 Q20.8,67.5 15.4,68.8 Q18.8,73.2 24.3,71.9Z" fill="#F5F1E6"/><path d="M24.3,71.9 Q29.7,70.7 30.8,65.2 Q25.4,66.5 24.3,71.9Z" fill="#F5F1E6"/><path d="M24.6,66.3 Q22.0,62.3 17.3,63.0 Q19.9,67.0 24.6,66.3Z" fill="#F5F1E6"/><path d="M24.6,66.3 Q29.3,65.5 30.6,61.0 Q25.9,61.7 24.6,66.3Z" fill="#F5F1E6"/><path d="M25.8,60.6 Q23.9,57.2 20.0,57.5 Q21.9,60.9 25.8,60.6Z" fill="#F5F1E6"/><path d="M25.8,60.6 Q29.8,60.3 31.1,56.6 Q27.2,56.9 25.8,60.6Z" fill="#F5F1E6"/><path d="M27.9,55.0 Q26.6,52.2 23.4,52.2 Q24.8,55.0 27.9,55.0Z" fill="#F5F1E6"/><path d="M27.9,55.0 Q31.0,55.0 32.3,52.1 Q29.2,52.2 27.9,55.0Z" fill="#F5F1E6"/><path d="M30.7,49.6 Q29.9,47.4 27.6,47.3 Q28.4,49.4 30.7,49.6Z" fill="#F5F1E6"/><path d="M30.7,49.6 Q33.0,49.8 34.1,47.7 Q31.8,47.6 30.7,49.6Z" fill="#F5F1E6"/></svg>
